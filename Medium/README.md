@@ -1,1 +1,3 @@
 - [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
+- [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals)
+- [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)
