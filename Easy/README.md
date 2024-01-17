@@ -3,3 +3,4 @@
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 - [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
+- [Counting Bits](https://leetcode.com/problems/counting-bits)
