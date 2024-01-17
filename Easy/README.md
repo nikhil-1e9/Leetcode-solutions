@@ -1,3 +1,4 @@
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins)
 - [Goat Latin](https://leetcode.com/problems/goat-latin)
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
+- [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
