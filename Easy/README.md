@@ -4,3 +4,4 @@
 - [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
