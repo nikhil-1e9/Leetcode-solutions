@@ -6,3 +6,4 @@
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [Detect Capital](https://leetcode.com/problems/detect-capital)
+- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
