@@ -5,3 +5,4 @@
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 - [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- [Detect Capital](https://leetcode.com/problems/detect-capital)
