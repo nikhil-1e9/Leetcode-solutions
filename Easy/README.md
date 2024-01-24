@@ -8,3 +8,4 @@
 - [Detect Capital](https://leetcode.com/problems/detect-capital)
 - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch)
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
