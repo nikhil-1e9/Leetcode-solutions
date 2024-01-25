@@ -8,7 +8,7 @@ class Solution:
   For example, "ace" is a subsequence of "abcde".
   A common subsequence of two strings is a subsequence that is common to both strings.
   """
-    # -------------- Recursion + Memoization -> O(n^2) space O(n^2) time ----------------
+    # -------------- Recursion + Memoization -> O(n*m) space O(n*m) time ----------------
     def LCS(self, s1, s2, i, j):
         if i == len(s1) or j == len(s2):
             return 0
@@ -31,7 +31,7 @@ class Solution:
         return self.LCS(text1, text2, 0, 0)
 
 
-    # ---------------- Iterative -> O(n^2) space O(n^2) time ----------------
+    # ---------------- Iterative -> O(n*m) space O(n*m) time ----------------
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         m, n = len(text1), len(text2)
         dp = [[0]*(n+1) for _ in range(m+1)]
@@ -46,7 +46,7 @@ class Solution:
         return dp[-1][-1]
 
       
-    # ---------------- Iterative -> O(n) space O(n^2) time ----------------
+    # ---------------- Iterative -> O(n) space O(n*m) time ----------------
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         m, n = len(text1), len(text2)
         prev = [0]*(n+1)
