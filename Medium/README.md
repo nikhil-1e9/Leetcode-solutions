@@ -13,3 +13,4 @@
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)
 - [Subsets](https://leetcode.com/problems/subsets)
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
