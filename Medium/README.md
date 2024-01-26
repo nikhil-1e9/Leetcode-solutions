@@ -14,3 +14,4 @@
 - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)
 - [Subsets](https://leetcode.com/problems/subsets)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
+- [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
