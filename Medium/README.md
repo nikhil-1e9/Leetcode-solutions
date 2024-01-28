@@ -17,3 +17,4 @@
 - [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)
 - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)
 - [Rotate Image](https://leetcode.com/problems/rotate-image)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
