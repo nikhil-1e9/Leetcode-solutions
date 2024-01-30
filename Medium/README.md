@@ -18,3 +18,4 @@
 - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)
 - [Rotate Image](https://leetcode.com/problems/rotate-image)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
