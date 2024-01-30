@@ -12,3 +12,4 @@
 - [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)
 - [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
