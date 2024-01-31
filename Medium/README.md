@@ -21,3 +21,4 @@
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
