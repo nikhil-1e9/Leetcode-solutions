@@ -1,1 +1,3 @@
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+- [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
+- [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)
