@@ -14,3 +14,5 @@
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [Destination City](https://leetcode.com/problems/destination-city)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
