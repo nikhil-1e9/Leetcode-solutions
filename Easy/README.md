@@ -16,3 +16,4 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [Destination City](https://leetcode.com/problems/destination-city)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
+- [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)
