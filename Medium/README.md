@@ -23,3 +23,4 @@
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
 - [Sequential Digits](https://leetcode.com/problems/sequential-digits)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
