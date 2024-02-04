@@ -17,3 +17,4 @@
 - [Destination City](https://leetcode.com/problems/destination-city)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 - [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)
+- [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)
