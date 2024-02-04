@@ -56,3 +56,11 @@ class Solution:
         numPos = len(nums)-1-end+1
         
         return max(numNeg, numPos)
+
+  
+  # 3 lines using inbuilt bisect method
+    def maximumCount(self, nums: List[int]) -> int:
+        numNeg = bisect.bisect_left(nums, 0)
+        numPos = len(nums) - bisect.bisect_right(nums, 0)
+        
+        return max(numNeg, numPos)
