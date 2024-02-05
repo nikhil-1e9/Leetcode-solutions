@@ -26,3 +26,4 @@
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 - [3Sum](https://leetcode.com/problems/3sum)
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
+- [Permutations](https://leetcode.com/problems/permutations)
