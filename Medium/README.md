@@ -28,3 +28,4 @@
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [Permutations](https://leetcode.com/problems/permutations)
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
