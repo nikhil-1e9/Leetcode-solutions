@@ -27,3 +27,4 @@
 - [3Sum](https://leetcode.com/problems/3sum)
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [Permutations](https://leetcode.com/problems/permutations)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
