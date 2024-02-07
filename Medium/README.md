@@ -31,3 +31,4 @@
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
 - [Combination Sum](https://leetcode.com/problems/combination-sum)
+- [Min Stack](https://leetcode.com/problems/min-stack)
