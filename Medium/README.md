@@ -34,3 +34,4 @@
 - [Min Stack](https://leetcode.com/problems/min-stack)
 - [Perfect Squares](https://leetcode.com/problems/perfect-squares)
 - [Unique Paths](https://leetcode.com/problems/unique-paths)
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer)
