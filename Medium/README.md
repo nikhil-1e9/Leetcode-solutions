@@ -35,3 +35,4 @@
 - [Perfect Squares](https://leetcode.com/problems/perfect-squares)
 - [Unique Paths](https://leetcode.com/problems/unique-paths)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
