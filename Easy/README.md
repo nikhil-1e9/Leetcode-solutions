@@ -21,3 +21,4 @@
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
