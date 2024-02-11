@@ -36,3 +36,4 @@
 - [Unique Paths](https://leetcode.com/problems/unique-paths)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
+- [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
