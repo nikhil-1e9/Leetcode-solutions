@@ -23,3 +23,4 @@
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 - [Majority Element](https://leetcode.com/problems/majority-element)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
