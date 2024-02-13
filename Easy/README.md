@@ -24,3 +24,4 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 - [Majority Element](https://leetcode.com/problems/majority-element)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+- [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
