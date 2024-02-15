@@ -46,3 +46,4 @@
 - [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign)
 - [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)
 - [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines)
+- [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)
