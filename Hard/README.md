@@ -3,3 +3,4 @@
 - [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 - [Cherry Pickup](https://leetcode.com/problems/cherry-pickup)
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
