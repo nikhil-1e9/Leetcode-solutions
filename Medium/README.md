@@ -48,3 +48,4 @@
 - [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines)
 - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)
 - [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums)
+- [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)
