@@ -5,3 +5,4 @@
 - [Cherry Pickup](https://leetcode.com/problems/cherry-pickup)
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
