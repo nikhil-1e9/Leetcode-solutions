@@ -6,3 +6,4 @@
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+- [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
