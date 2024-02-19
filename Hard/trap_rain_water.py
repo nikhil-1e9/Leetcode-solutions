@@ -3,7 +3,7 @@ class Solution:
   Given n non-negative integers representing an elevation map 
   where the width of each bar is 1, compute how much water it can trap after raining.
   """
-  ## ----------- O(n^2) time solution ----------- ## 
+  ## ------- O(n^2) time solution -> 320/322 test cases passed ------- ## 
     def trap(self, height: List[int]) -> int:
         water = 0
         n = len(height)
