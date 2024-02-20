@@ -50,3 +50,4 @@
 - [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums)
 - [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+- [Word Search](https://leetcode.com/problems/word-search)
