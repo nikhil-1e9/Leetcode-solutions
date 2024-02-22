@@ -26,3 +26,4 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position)
