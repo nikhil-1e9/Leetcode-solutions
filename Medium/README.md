@@ -53,3 +53,4 @@
 - [Word Search](https://leetcode.com/problems/word-search)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 - [Reorder List](https://leetcode.com/problems/reorder-list)
+- [Coin Change](https://leetcode.com/problems/coin-change)
