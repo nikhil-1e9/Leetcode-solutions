@@ -55,3 +55,4 @@
 - [Reorder List](https://leetcode.com/problems/reorder-list)
 - [Coin Change](https://leetcode.com/problems/coin-change)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
+- [Decode Ways](https://leetcode.com/problems/decode-ways)
