@@ -56,3 +56,5 @@
 - [Coin Change](https://leetcode.com/problems/coin-change)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
 - [Decode Ways](https://leetcode.com/problems/decode-ways)
+- [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
+- [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)
