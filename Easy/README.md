@@ -28,3 +28,4 @@
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
+- [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
