@@ -59,3 +59,4 @@
 - [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage)
 - [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)
 - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
+- [Triangle](https://leetcode.com/problems/triangle)
