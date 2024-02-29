@@ -60,3 +60,6 @@
 - [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array)
 - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)
 - [Triangle](https://leetcode.com/problems/triangle)
+- [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
+- [Delete and Earn](https://leetcode.com/problems/delete-and-earn)
